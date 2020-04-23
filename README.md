@@ -15,9 +15,9 @@
       - $ virtualenv venv 
       - $ venv\Scripts\activate on Windows or $ source venv/bin/activate on Posix system 
   4. Install the requirements for the project 
-      - $ pip install -r requirements.txt 
+      - $ pip install -r ../requirements.txt 
   5. Now start the localhost server
-      - $ python manage.py runserver 
+      - $ python ../manage.py runserver 
 
 # Live Example
    [Portfolio](http://msgc320.pythonanywhere.com/)
